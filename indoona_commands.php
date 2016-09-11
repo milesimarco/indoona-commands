@@ -4,9 +4,8 @@ Plugin Name:  indoona commands
 Plugin URI:  https://wordpress.org/plugins/indoona-connect
 Description: indoona plugin for adding commands function
 Version:      0.1
-Author:       Tiscali Italia S.p.A.
-Author URI:  http://www.tiscali.it/
-Contributors: indoonaopenplatform
+Author:       Marco Milesi
+Author URI:  http://www.marcomilesi.ml
 */
 
 add_action('indoona_parse','indoonacustom_parse', 10, 3);
